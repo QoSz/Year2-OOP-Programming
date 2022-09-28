@@ -1,0 +1,4 @@
+https://www.tutorialspoint.com/design_pattern/factory_pattern.htm
+https://en.wikipedia.org/wiki/Factory_method_pattern
+https://stackoverflow.com/questions/1085709/what-does-synchronized-mean
+https://blog.knoldus.com/difference-between-synchronized-and-volatile-in-java/
